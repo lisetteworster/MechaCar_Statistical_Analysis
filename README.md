@@ -17,7 +17,7 @@
 
 ![](Resources/images/deliverable2.png)
 
-![](Resources/images/deliverable2_lotssummary.png)
+![](Resources/images/deliverable2_lotsummary.png)
 
 ![](Resources/images/deliverable2_summarize.png)
 
